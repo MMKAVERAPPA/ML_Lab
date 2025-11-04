@@ -12,3 +12,4 @@ Repository for the lab programs executed in the Machine Learning Laboratory
 - MNIST
 
 ## Lab 4
+- Linear Regression
